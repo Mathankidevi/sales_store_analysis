@@ -4,9 +4,8 @@
 
 # Problem Statement
   ## The store doesn’t have a clear idea about :-
-  The store doesn’t have a clear idea about :-
 
-which products sell the most,
-customers preference,
-which items bring in the most profit,and
-where things are going wrong indelivery or operations. Because of this, they aremissing chances to earnmore, losing customers, andmaking poor businessdecisions.
+ 1. which products sell the most,
+ 2. customers preference,
+ 3. which items bring in the most profit,and
+ 4. where things are going wrong indelivery or operations. Because of this, they aremissing chances to earnmore, losing customers, andmaking poor businessdecisions.
